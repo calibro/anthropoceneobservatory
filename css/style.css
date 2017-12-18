@@ -53,3 +53,7 @@ p{
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
 }
+
+a, a:hover, a:focus {
+  color:#CABA5B;
+}
