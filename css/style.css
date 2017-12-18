@@ -1,0 +1,24 @@
+
+body {
+  background-color: #000;
+  color: #fff;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+.sidebar{
+position:fixed;
+max-width: 10%;
+}
+
+.image-data{
+  max-width: 100%;
+}
+
+#data, #intro, #interaction, #demo {
+  margin-bottom: 100px;
+}
+
+h4{
+  text-transform: uppercase;
+}
